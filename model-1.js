@@ -14,3 +14,9 @@ var temp = -20;
 
 (numberDogs >= 10);
 (userName === "ericli1996");
+
+// Variables with arrays will have an ordered list of more than one number, string, etc.
+// For example:
+
+var vegetable = ("greens", "beans", "potatoes", "tomatoes")
+var nightlyLow = (30, 39, 43, 46, 46)
