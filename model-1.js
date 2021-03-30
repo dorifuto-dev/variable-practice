@@ -18,5 +18,10 @@ var temp = -20;
 // Variables with arrays will have an ordered list of more than one number, string, etc.
 // For example:
 
-var vegetable = ("greens", "beans", "potatoes", "tomatoes")
-var nightlyLow = (30, 39, 43, 46, 46)
+var vegetable = ("greens", "beans", "potatoes", "tomatoes");
+var nightlyLow = (30, 39, 43, 46, 46);
+
+// An object has properties to it such as weight and color, and methods, like accelerate
+// and decelerate. For example:
+
+var car = {type:"Honda", model:"CRX Si", color:"black"};
